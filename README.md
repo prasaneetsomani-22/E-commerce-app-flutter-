@@ -1,6 +1,6 @@
 # e_commerce
 
-A new Flutter application.
+A basic e-commerce app built using flutter and firebase.This app has a nice and attractive UI.This app can perform basic functionalities of e-commerce like adding product to carts,save products to wishlist,buying products,adsress selection.Also implemented a plugin for payment gateway.This app still needs some updates but for now it is good enough for any business requirement. 
 
 ## Getting Started
 
